@@ -1,0 +1,15 @@
+.Game {
+  text-align: center;
+}
+
+.square {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  padding: 0px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
